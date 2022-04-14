@@ -78,11 +78,11 @@ professional experience working as a frontend engineer, developing applications.
 
 As an engineer 2:
 
-- You will work on engineering initiatives that drive a larger featureset, while
-  keeping the project maintainable and scalable
+- You will work on engineering initiatives that drive a larger feature set,
+  while keeping the project maintainable and scalable
 - You will spend more time on code reviews which should be respectful, thorough,
   thoughtful, flexible, and not pedantic
-- You should be able to find painpoints in the codebase and able to propose
+- You should be able to find pain points in the codebase and able to propose
   solutions that are both efficient and understandable
 - You will be part of the product development and should propose ideas for
   improvements
@@ -113,5 +113,5 @@ As a senior engineer:
 This is heavily inspired by
 [career-ladders](https://career-ladders.dev/engineering) by
 [Sarah Drasner](https://twitter.com/sarah_edo) and the
-[fronend engineering](https://about.gitlab.com/job-families/engineering/development/frontend/)
+[frontend engineering](https://about.gitlab.com/job-families/engineering/development/frontend/)
 roles defined by [GitLab](https://about.gitlab.com/)
