@@ -97,10 +97,15 @@ As a senior engineer:
 
 - You will lead the development and implementation of larger features, while
   considering the impact on the rest of the product
+- You will work on the API design with the backend engineers, considering the
+  performance and complexity constraints on the backend system and the frontend
+  applications
 - You will take over responsibility of the build systems and infrastructure of
   the frontend projects
+- You take over the assessment of unknowns, with a quick understanding of the
+  technical- and business requirements
 - You will support your peers by pair programming, reviewing code and providing
-  mentoring
+  mentorship
 - You will be involved in solving pressing technical issues and should be
   capable of working with shifting priorities
 - You will be part of the planning and scoping process, for larger tasks you
